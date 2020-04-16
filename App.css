@@ -1,0 +1,31 @@
+.flex{
+  display: flex !important;
+}
+
+.card{
+
+  width: 80%;
+}
+
+.margin-left{
+
+  margin-left: 5rem;
+}
+
+.img-responsive{
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 2rem;
+  opacity: 0.6;
+}
+
+span{
+  cursor: pointer;
+}
+
+.container{
+  width: 1600px;
+  margin: auto;
+  padding: 2rem;
+  text-align: center;
+}
